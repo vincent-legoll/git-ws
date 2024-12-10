@@ -5,7 +5,7 @@
 def affiche(message):
     print('Vous avez reçu un message...')
     print('  Voici le contenu:')
-    print(' ' + message)
+    print('  ' + message)
 
 def main():
     affiche('Salut Jules!')
