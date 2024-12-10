@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# on peut avoir        des commentaires moisis
+# on peut avoir des commentaires moisis
 
 def affiche(message):
     print('Vous avez reçu un message...')
@@ -13,4 +13,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
